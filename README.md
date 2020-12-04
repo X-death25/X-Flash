@@ -1,6 +1,8 @@
 # X-Flash
 An Open Source CPLD based Sega Megadrive/Genesis Flash Cart 
 
+![Xflash_pcb](https://github.com/X-death25/X-Flash/blob/main/gfx/1607079401089.JPEG)
+
 What is it ?
 -----
 
