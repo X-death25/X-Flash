@@ -17,8 +17,14 @@ Product Feature :
     Clean 5V <> 3.3V level shifting
     7 GPIO for user
     Open Source Hardware & Software & PCB
+
+Cartridge supported :
+-----
+    Classic 32Mb cartridge ( no mapper )
+    
     
 How to use it :
 -----
 
-Just flash the needed core into the CPLD and wartridge will works in the same way as an original game.
+Just flash the needed core into the CPLD and cartridge will works in the same way as an original.
+You can reflash memory with any compatible Megadrive reader ( for exemple MD Dumper / Krikkz / Sanni cart Reader )
